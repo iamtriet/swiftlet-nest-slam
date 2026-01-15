@@ -4,8 +4,6 @@ A ROS-based Simultaneous Localization and Mapping (SLAM) system for swiftlet nes
 
 ![Laboratory Result](laboratory%20result.png)
 
-Our system has been tested in laboratory conditions.
-
 ## Features
 
 - **Multi-mode SLAM Support**: Semantic SLAM, MMS-SLAM, and SSL-SLAM implementations
