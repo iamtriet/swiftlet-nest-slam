@@ -135,6 +135,14 @@ python planeExtraction.py
 ./diagnose_semantic_slam.sh
 ```
 
+## Results
+
+### Laboratory Testing Results
+
+![Laboratory Result](laboratory%20result.png)
+
+Our system has been tested in laboratory conditions with real swiftlet nest samples, demonstrating effective detection and mapping capabilities.
+
 ## Project Structure
 
 ```
