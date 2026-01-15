@@ -1,0 +1,39 @@
+# ROS build artifacts
+build/
+devel/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+
+# YOLO/Training artifacts
+runs/
+*.pt
+*.weights
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Data directories (uncomment if you don't want to push large datasets)
+# raw-data/
+# images/
+# fake_enhanced/
+# slam_exports/
+
+# Training outputs
+training_plots/

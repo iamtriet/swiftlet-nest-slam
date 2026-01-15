@@ -1,0 +1,46 @@
+{
+  "total_unique_objects": 3,
+  "session_timestamp": "20251112_113926",
+  "camera_mode": "infrared",
+  "objects": [
+    {
+      "global_id": 1,
+      "class": "bird-nest",
+      "position": {
+        "x": 0.13362154238852186,
+        "y": -1.5222977335419832,
+        "z": 0.1486513245580683
+      },
+      "first_seen": 2,
+      "last_seen": 2836,
+      "detection_count": 2864,
+      "duration_seconds": 2834
+    },
+    {
+      "global_id": 2,
+      "class": "bird-nest",
+      "position": {
+        "x": 0.19224406904770402,
+        "y": -1.3659592758430492,
+        "z": 0.7608341835278537
+      },
+      "first_seen": 13,
+      "last_seen": 832,
+      "detection_count": 97,
+      "duration_seconds": 819
+    },
+    {
+      "global_id": 3,
+      "class": "bird-nest",
+      "position": {
+        "x": 0.5517003055763678,
+        "y": -1.474066302178458,
+        "z": 0.9027173255247706
+      },
+      "first_seen": 460,
+      "last_seen": 460,
+      "detection_count": 1,
+      "duration_seconds": 0
+    }
+  ]
+}

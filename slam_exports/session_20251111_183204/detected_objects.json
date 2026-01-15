@@ -1,0 +1,20 @@
+{
+  "total_unique_objects": 1,
+  "session_timestamp": "20251111_183204",
+  "camera_mode": "infrared",
+  "objects": [
+    {
+      "global_id": 1,
+      "class": "bird-nest",
+      "position": {
+        "x": 0.054002469134874276,
+        "y": -2.4905423551974337,
+        "z": 0.07740115940229209
+      },
+      "first_seen": 88,
+      "last_seen": 88,
+      "detection_count": 1,
+      "duration_seconds": 0
+    }
+  ]
+}

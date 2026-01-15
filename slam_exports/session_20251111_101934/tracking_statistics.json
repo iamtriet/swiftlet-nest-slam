@@ -1,0 +1,14 @@
+{
+  "session_timestamp": "20251111_101934",
+  "total_frames_processed": 192,
+  "average_fps": 16.322198799623145,
+  "tracking_mode": "DeepSORT",
+  "global_objects": {
+    "total_unique": 1,
+    "by_class": {
+      "bird-nest": 1
+    }
+  },
+  "currently_tracked": 0,
+  "enhanced_memory_objects": 0
+}
