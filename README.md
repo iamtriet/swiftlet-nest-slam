@@ -10,7 +10,7 @@ Our system has been tested in laboratory conditions.
 
 - **Multi-mode SLAM Support**: Semantic SLAM, MMS-SLAM, and SSL-SLAM implementations
 - **IR Image Processing**: Enhanced infrared image processing for nest detection
-- **YOLO Integration**: Real-time object detection with tracking
+- **Deep Learning Integration**: Real-time object detection with tracking
 - **3D Mapping**: Point cloud generation and visualization
 - **Session Recording**: Automatic export of detected objects and tracking statistics
 - **Performance Monitoring**: Built-in diagnostics and performance checking tools
@@ -22,9 +22,9 @@ Our system has been tested in laboratory conditions.
 - Computer with GPU support (for YOLO inference)
 
 ### Software Requirements
-- Ubuntu 18.04/20.04
-- ROS Melodic/Noetic
-- Python 3.6+
+- Ubuntu 20.04
+- ROS Noetic
+- Python 3.8+
 - CUDA (for GPU acceleration)
 
 ### Dependencies
