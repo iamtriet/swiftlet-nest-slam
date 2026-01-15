@@ -186,18 +186,6 @@ Verify training setup:
 ./verify_training_setup.sh
 ```
 
-Create training curves:
-```bash
-python create_training_curves.py
-python create_pr_curves.py
-```
-
-### Model Comparison
-Compare model performance:
-```bash
-python model_comparison_result.py
-```
-
 ## Troubleshooting
 
 ### Camera Not Detected
