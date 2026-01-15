@@ -1,4 +1,4 @@
-# Swiftlet Nest SLAM System
+# SN-LIO: Swiftlet's nest SLAM system
 
 A ROS-based Simultaneous Localization and Mapping (SLAM) system for swiftlet nest detection and mapping using semantic segmentation, object detection/segmentation, and infrared imaging with solid-state LiDAR.
 
