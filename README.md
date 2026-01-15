@@ -2,13 +2,9 @@
 
 A ROS-based Simultaneous Localization and Mapping (SLAM) system for swiftlet nest detection and mapping using semantic segmentation, YOLO object detection, and infrared imaging with Intel RealSense cameras.
 
-## Results
-
-### Laboratory Testing Results
-
 ![Laboratory Result](laboratory%20result.png)
 
-Our system has been tested in laboratory conditions with real swiftlet nest samples, demonstrating effective detection and mapping capabilities.
+Our system has been tested in laboratory conditions.
 
 ## Features
 
